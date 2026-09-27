@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="." excluding="WEB-INF/|admin/|student/|assets/|css/|js/|META-INF/|database/|docs/|*.jsp|*.bat|*.txt|*.js"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/mongodb-driver-sync-4.11.1.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/mongodb-driver-core-4.11.1.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/bson-4.11.1.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/json-20240303.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/jsp-api.jar"/>
+	<classpathentry kind="output" path="WEB-INF/classes"/>
+</classpath>

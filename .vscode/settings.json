@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": [
+        "promax"
+    ],
+    "java.project.referencedLibraries": [
+        "promax/WEB-INF/lib/**/*.jar"
+    ],
+    "java.configuration.updateBuildConfiguration": "automatic"
+}
